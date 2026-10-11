@@ -1,0 +1,6 @@
+{
+  "name": "BYTE XL — Student Academic Portal",
+  "description": "Professional Internal Marks Management System for college faculty and staff to manage students, subjects, assessments, and academic performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
